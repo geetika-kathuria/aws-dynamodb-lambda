@@ -1,0 +1,10 @@
+{
+  "name": "aws-dynamodb-lambda",
+  "version": "1.0.0",
+  "description": "Serverless CRUD user service exposed via REST API",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^2.0.3"
+  }
+}
